@@ -40,3 +40,8 @@ System Exit: Raises a SystemExit exception for invalid inputs to prompt the play
 
 # Contributing
 If you have any suggestions, improvements, or issues, feel free to open an issue or create a pull request. Contributions are welcome!
+
+# Live Demo
+You can play the game directly in your browser here:
+
+https://replit.com/@ilievadaria21/RockPaperScissors
