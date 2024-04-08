@@ -26,7 +26,6 @@ Result Display: Displays the result of each round (Win, Lose, or Draw).
 
 Keep Playing: Allows the player to continue playing multiple rounds or exit the game.
 
-
 # Methods Used
 Input Handling: Validates and converts the player's input into the corresponding move (Rock, Paper, or Scissors). 
 
@@ -37,9 +36,6 @@ Conditional Statements: Utilizes if-elif-else statements to compare the player's
 Looping: Implements a while loop to allow the player to continue playing multiple rounds until they choose to exit.
 
 System Exit: Raises a SystemExit exception for invalid inputs to prompt the player to try again.
-
-# Contributing
-If you have any suggestions, improvements, or issues, feel free to open an issue or create a pull request. Contributions are welcome!
 
 # Live Demo
 You can play the game directly in your browser here:
